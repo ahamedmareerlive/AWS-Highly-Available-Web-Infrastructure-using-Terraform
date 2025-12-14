@@ -53,7 +53,7 @@ The infrastructure is designed following AWS best practices and includes a custo
        ├── main.tf
        ├── variables.tf
        └── outputs.tf
-
+```
 ## 🔁 Modular Design
 
 This project uses Terraform modules to keep the infrastructure reusable, maintainable, and easy to extend.
